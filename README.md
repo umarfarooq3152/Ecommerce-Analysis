@@ -2,7 +2,7 @@
 
 **Student:** Umar Farooq &nbsp;|&nbsp; **Roll No:** bcsf23m503  
 **Course:** Machine Learning Project  
-**University:** BCSF23 Cohort
+**University:** PUCIT
 
 ---
 
